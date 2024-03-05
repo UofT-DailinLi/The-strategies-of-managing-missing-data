@@ -1,7 +1,7 @@
 ---
 title: "The strategies of managing missing data"
 title-block-banner: true
-thanks: "Code and data supporting this analysis is available at: https://github.com/UofT-DailinLi/toronto-crime-report.git"
+thanks: "Code and data supporting this analysis is available at: https://github.com/UofT-DailinLi/The-strategies-of-managing-missing-data.git"
 author: "Ben Li"
 date: today
 date-format: long
